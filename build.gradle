@@ -6,6 +6,7 @@ repositories {
 
 dependencies {
     testCompile('junit:junit:4.12')
+    runtime files('joejoooe0.jar')
 }
 
 test {
